@@ -89,6 +89,7 @@
             this.label37 = new System.Windows.Forms.Label();
             this.convertBTN = new System.Windows.Forms.Button();
             this.unitComboBox = new System.Windows.Forms.ComboBox();
+            this.label38 = new System.Windows.Forms.Label();
             this.leebPanel.SuspendLayout();
             this.panel2.SuspendLayout();
             this.panel1.SuspendLayout();
@@ -418,6 +419,7 @@
             // 
             // panel4
             // 
+            this.panel4.Controls.Add(this.label38);
             this.panel4.Controls.Add(this.label31);
             this.panel4.Controls.Add(this.label30);
             this.panel4.Controls.Add(this.label29);
@@ -533,7 +535,6 @@
             this.label17.Size = new System.Drawing.Size(24, 25);
             this.label17.TabIndex = 15;
             this.label17.Text = "0";
-
             // 
             // label18
             // 
@@ -612,7 +613,6 @@
             this.label27.Size = new System.Drawing.Size(24, 25);
             this.label27.TabIndex = 6;
             this.label27.Text = "0";
-
             // 
             // label28
             // 
@@ -712,7 +712,6 @@
             this.convertBTN.TabIndex = 14;
             this.convertBTN.Text = "Convert";
             this.convertBTN.UseVisualStyleBackColor = true;
-
             // 
             // unitComboBox
             // 
@@ -739,11 +738,20 @@
             this.unitComboBox.Size = new System.Drawing.Size(183, 33);
             this.unitComboBox.TabIndex = 15;
             // 
-            // mainForm
+            // label38
+            // 
+            this.label38.AutoSize = true;
+            this.label38.Location = new System.Drawing.Point(391, 278);
+            this.label38.Name = "label38";
+            this.label38.Size = new System.Drawing.Size(24, 25);
+            this.label38.TabIndex = 25;
+            this.label38.Text = "0";
+            // 
+            // Main
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(12F, 25F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(968, 817);
+            this.ClientSize = new System.Drawing.Size(968, 991);
             this.Controls.Add(this.unitComboBox);
             this.Controls.Add(this.convertBTN);
             this.Controls.Add(this.panel6);
@@ -756,7 +764,7 @@
             this.Controls.Add(this.unitLabel);
             this.Controls.Add(this.numberLabel);
             this.Controls.Add(this.numberEntry);
-            this.Name = "mainForm";
+            this.Name = "Main";
             this.Text = "Koopa Hardness Converter";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.leebPanel.ResumeLayout(false);
@@ -840,7 +848,7 @@
         private System.Windows.Forms.Label label37;
         private System.Windows.Forms.Button convertBTN;
         private System.Windows.Forms.ComboBox unitComboBox;
-
+        private System.Windows.Forms.Label label38;
     }
 
 
