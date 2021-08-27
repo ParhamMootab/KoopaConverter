@@ -1,0 +1,2 @@
+C:\Users\Parham\Desktop\Koopa2\KoopaConverter2\KoopaConverter2\bin\Release\netcoreapp3.1\win-x64\publish\KoopaConverter.pdb
+C:\Users\Parham\Desktop\Koopa2\KoopaConverter2\KoopaConverter2\bin\Release\netcoreapp3.1\win-x64\publish\KoopaConverter.exe

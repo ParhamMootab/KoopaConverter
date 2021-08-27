@@ -1,0 +1,5 @@
+C:\Users\Parham\Desktop\Koopa2\KoopaConverter2\KoopaConverter2\bin\Release\netcoreapp3.1\publish\KoopaConverter.exe
+C:\Users\Parham\Desktop\Koopa2\KoopaConverter2\KoopaConverter2\bin\Release\netcoreapp3.1\publish\KoopaConverter.dll
+C:\Users\Parham\Desktop\Koopa2\KoopaConverter2\KoopaConverter2\bin\Release\netcoreapp3.1\publish\KoopaConverter.deps.json
+C:\Users\Parham\Desktop\Koopa2\KoopaConverter2\KoopaConverter2\bin\Release\netcoreapp3.1\publish\KoopaConverter.runtimeconfig.json
+C:\Users\Parham\Desktop\Koopa2\KoopaConverter2\KoopaConverter2\bin\Release\netcoreapp3.1\publish\KoopaConverter.pdb

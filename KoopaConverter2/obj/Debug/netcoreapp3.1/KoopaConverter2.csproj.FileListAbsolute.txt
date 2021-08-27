@@ -1,0 +1,16 @@
+C:\Users\Parham\Desktop\Koopa2\KoopaConverter2\KoopaConverter2\bin\Debug\netcoreapp3.1\KoopaConverter2.exe
+C:\Users\Parham\Desktop\Koopa2\KoopaConverter2\KoopaConverter2\bin\Debug\netcoreapp3.1\KoopaConverter2.deps.json
+C:\Users\Parham\Desktop\Koopa2\KoopaConverter2\KoopaConverter2\bin\Debug\netcoreapp3.1\KoopaConverter2.runtimeconfig.json
+C:\Users\Parham\Desktop\Koopa2\KoopaConverter2\KoopaConverter2\bin\Debug\netcoreapp3.1\KoopaConverter2.runtimeconfig.dev.json
+C:\Users\Parham\Desktop\Koopa2\KoopaConverter2\KoopaConverter2\bin\Debug\netcoreapp3.1\KoopaConverter2.dll
+C:\Users\Parham\Desktop\Koopa2\KoopaConverter2\KoopaConverter2\bin\Debug\netcoreapp3.1\KoopaConverter2.pdb
+C:\Users\Parham\Desktop\Koopa2\KoopaConverter2\KoopaConverter2\obj\Debug\netcoreapp3.1\KoopaConverter2.csprojAssemblyReference.cache
+C:\Users\Parham\Desktop\Koopa2\KoopaConverter2\KoopaConverter2\obj\Debug\netcoreapp3.1\KoopaConverter2.Form1.resources
+C:\Users\Parham\Desktop\Koopa2\KoopaConverter2\KoopaConverter2\obj\Debug\netcoreapp3.1\KoopaConverter2.csproj.GenerateResource.cache
+C:\Users\Parham\Desktop\Koopa2\KoopaConverter2\KoopaConverter2\obj\Debug\netcoreapp3.1\KoopaConverter2.AssemblyInfoInputs.cache
+C:\Users\Parham\Desktop\Koopa2\KoopaConverter2\KoopaConverter2\obj\Debug\netcoreapp3.1\KoopaConverter2.AssemblyInfo.cs
+C:\Users\Parham\Desktop\Koopa2\KoopaConverter2\KoopaConverter2\obj\Debug\netcoreapp3.1\KoopaConverter2.csproj.CoreCompileInputs.cache
+C:\Users\Parham\Desktop\Koopa2\KoopaConverter2\KoopaConverter2\obj\Debug\netcoreapp3.1\KoopaConverter2.dll
+C:\Users\Parham\Desktop\Koopa2\KoopaConverter2\KoopaConverter2\obj\Debug\netcoreapp3.1\KoopaConverter2.pdb
+C:\Users\Parham\Desktop\Koopa2\KoopaConverter2\KoopaConverter2\obj\Debug\netcoreapp3.1\KoopaConverter2.genruntimeconfig.cache
+C:\Users\Parham\Desktop\Koopa2\KoopaConverter2\KoopaConverter2\obj\Debug\netcoreapp3.1\KoopaConverter2.Properties.Resources.resources

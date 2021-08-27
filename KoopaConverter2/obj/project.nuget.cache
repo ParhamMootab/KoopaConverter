@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ubTU3S7x1azJdOttfWg0X3Lz0bHAE3S3sD/nXIwtwm+y3UIPm3mwEt+SpUamnwt4r7Vd5t6zAFf5xgtdbZc/Dg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Parham\\Desktop\\Koopa2\\KoopaConverter2\\KoopaConverter2\\KoopaConverter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Parham\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\3.1.15\\microsoft.netcore.app.runtime.win-x64.3.1.15.nupkg.sha512",
+    "C:\\Users\\Parham\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\3.1.15\\microsoft.windowsdesktop.app.runtime.win-x64.3.1.15.nupkg.sha512",
+    "C:\\Users\\Parham\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\3.1.15\\microsoft.aspnetcore.app.runtime.win-x64.3.1.15.nupkg.sha512"
+  ],
+  "logs": []
+}
